@@ -1,2 +1,3 @@
 # Hisab_V1
-Website to calculate expense of your trip with friends easily.
+Website to calculate expenses of your trip with friends easily.
+https://sanskarg.pyscriptapps.com/hisab/v1/
