@@ -1,6 +1,6 @@
 # ExpenseTracker_V1
 Website to calculate expenses of your trip with friends easily.
-https://sanskarg.pyscriptapps.com/hisab/v1/
+https://sanskarg.pyscriptapps.com/expense-tracker/v1/
 
 ## Overview
 This Expense Tracker is a web-based application that helps groups of people track and split shared expenses. It calculates the final balances, showing who owes money and who should receive money based on the expenses entered.
